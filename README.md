@@ -2,7 +2,7 @@
 
 This repository contains the following files:
 
-Supplemental.pdf - A digital supplement to the paper, contain a longer exposition of both the creation of the training dataset and the training process.
+Supplemental.pdf - A digital supplement to the paper, containing a fuller exposition of both the creation of the training dataset and the training process.
 
 ResNet50_processor_subfolders.py, VGG_16_processor_subfolders.py - Programs used to train CNN models to classify Tusayan White Ware sherds using both ResNet50 and VGG16 models pre-trained on the ImageNet dataset.
 
