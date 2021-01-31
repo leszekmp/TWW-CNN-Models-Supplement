@@ -16,7 +16,7 @@ Python_environment_instructions.txt - Brief instructions on how to create Python
 
 TWW_data.xlsx - Spreadsheet containing human sherd classifications, consensus classification, CNN model top type prediction, and per-sherd CNN model confidences for every  type
 
-The original image data is too large to upload to GitHub. It has instead been uploaded to a separate location, and can be downloaded using this link:
+At 815 MB, the original image data is too large to upload to GitHub. It has instead been uploaded to a separate location, and can be downloaded using this link:
 
 https://1drv.ms/u/s!ApEEvWWEJITPhrYFVMaTNTLeigCFNA?e=EoNGIG
 
