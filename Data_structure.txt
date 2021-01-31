@@ -1,0 +1,25 @@
+The data used by the programs to train and evaluate CNN models with Tusayan White Ware sherds needs to be in the following format:
+
+Storage directory\ =  Any name
+------------------Set_1\ = First set of test/training sherds in cross-fold validation
+------------------------Train\ = Folder containing training subfolders labeled with sherd type names
+-------------------------------00Kanaa
+-------------------------------01Wepo
+-------------------------------02Black_Mesa
+-------------------------------03Sos
+-------------------------------04Dogoszhi
+-------------------------------05Flagstaff
+-------------------------------06Tusayan
+-------------------------------07Kayenta: : Folders containing  training sherds by type. "0x" numbers are to keep type names in rough temporal order for convenience
+------------------------Test\ =  Folder containing test subfolders labeled with sherd type names
+-------------------------------00Kanaa
+-------------------------------01Wepo
+-------------------------------02Black_Mesa
+-------------------------------03Sos
+-------------------------------04Dogoszhi
+-------------------------------05Flagstaff
+-------------------------------06Tusayan
+-------------------------------07Kayenta: : Folders containing  test sherds by type. "0x" numbers are to keep type names in rough temporal order for convenience
+------------------------Models Folder where trained models are stored, along with additional training data (accuracy/loss curves, confusion matrices and summary tables for both training and test data. Empty before training is done.
+------------------Set_2, Set_3, Set_4, ...: Additional sets of test/training sherds in cross-fold validation; should have the same structure as given above.
+

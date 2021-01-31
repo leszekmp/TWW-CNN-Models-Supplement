@@ -1,0 +1,30 @@
+To run the Single Sherd Analyzer (SSA) Jupyter notebook for evaluation:
+
+1. You must have Python installed on your system. We use Anaconda, but you should be able to use any Python environment system you wish.
+
+2. Program was developed on Python 3.7. Should work on later versions, but no guarantees.
+
+3. Create a separate Python virtual environment in which to run the notebook.
+
+4. Activate the Python environment, and use the included requirements.txt file to install all required packages with the versions used in development. Use pip to install with the command:
+
+pip install -r requirements.tx
+
+Do not install libraries with Anaconda package manager; doesn't work well.
+
+5. Unzip Single Sherd Analyzer files/folder into desired location.
+
+6. Start Python in SSA folder, activate environment created in step 3.
+
+7. Run Jupyter notebook with command:
+
+jupyter notebook
+
+Jupyter should start in your default browser.
+
+8. Select "Single_Sherd_8_Analyzer.ipynb" from file list to start notebook.
+
+9. Run top section of code to initialize analyzer, then follow directions in comments.
+
+10. Program was developed in Windows; running it in Linux or Mac may require modifying some of the file paths.
+
