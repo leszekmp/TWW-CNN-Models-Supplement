@@ -18,5 +18,7 @@ TWW_data.xlsx - Spreadsheet containing human sherd classifications, consensus cl
 
 The original image data is too large to upload to GitHub. It has instead been uploaded to a separate location, and can be downloaded using this link:
 
+https://1drv.ms/u/s!ApEEvWWEJITPhrYFVMaTNTLeigCFNA?e=EoNGIG
 
-It contains both the original data, and a Jupyter notebook that allows the user to "test-drive" the use of CNN models in classifying sherds, creating saliency heat maps, and finding the closest matching sherds in appearance. Instructions for use are in the Jupyter notebook comments
+
+It contains both the original image data, and a Jupyter notebook that allows the user to "test-drive" the use of CNN models in classifying sherds, creating saliency heat maps, and finding the closest matching sherds in appearance. Instructions for use are in the Jupyter notebook comments, and in the file Python_environment_instructions.txt.
