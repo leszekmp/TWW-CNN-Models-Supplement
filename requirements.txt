@@ -85,7 +85,7 @@ nbconvert @ file:///D:/bld/nbconvert_1605401997174/work
 nbformat @ file:///home/conda/feedstock_root/build_artifacts/nbformat_1602732862338/work
 nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1605195931949/work
 networkx==2.5
-notebook==6.1.4
+notebook==6.1.5
 numba==0.51.2
 numpy==1.18.5
 numpydoc @ file:///home/conda/feedstock_root/build_artifacts/numpydoc_1601580905698/work
