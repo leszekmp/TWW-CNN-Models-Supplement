@@ -1,6 +1,6 @@
 ### Supplement To Applications of Deep Learning to Decorated Ceramic Typology and Classification: A Case Study Using Tusayan White Ware from Northeast Arizona by Leszek Pawlowicz and Christian Downum
 
-Until official publication of this paper, the contents of this archive are intended for the sole use of the peer reviewers, and the editorial staff of the Journal of Archaeological Science. No addition distribution is permitted.
+Until official publication of this paper, the contents of this archive are intended for the sole use of the peer reviewers, and the editorial staff of the Journal of Archaeological Science. No additional distribution is permitted.
 
 This repository contains the following files:
 
